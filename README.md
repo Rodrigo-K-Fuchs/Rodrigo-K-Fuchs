@@ -3,7 +3,7 @@ I am a computer engineer who loves coding and AI. 💻✨
 
 🌐 Fell free to explore my codes.
 
-[![ASD](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
