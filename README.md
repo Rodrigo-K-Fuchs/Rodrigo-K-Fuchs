@@ -2,6 +2,7 @@ Hi 👋 I am Rodrigo!
 I am a computer engineer who loves coding and AI. 💻✨
 
 🌐 Fell free to explore my codes.
+
 ✍️ Follow me on this socials.
 
 <div dir="auto"> 
