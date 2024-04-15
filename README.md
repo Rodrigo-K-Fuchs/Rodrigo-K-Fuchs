@@ -1,4 +1,4 @@
-Hi! 👋 I am Rodrigo, a computer engineer who loves coding and AI. 💻✨
+Hi! 👋 I am Rodrigo, a computer engineer who loves coding and AI/Machine Learning. 💻✨
 
 🌐 Feel free to explore my codes.
 
