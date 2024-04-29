@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I am Rodrigo, a computer engineer who loves coding and AI/Machine Learning. 💻✨<br><br>🌐 Feel free to explore my codes.<br><br>📚 Still in college with a lot of work to do.<br><br>👩‍💻 Researching on Machine Learning algorithms.<br><br>🤜 Follow me!
+Hi! 👋 I am Rodrigo, a computer engineer who loves coding and AI/Machine Learning. 💻✨<br><br>🌐 Feel free to explore my codes.<br><br>📚 Still in college with a lot of work to do.<br><br>👩‍💻 Researching on Machine Learning algorithms.<br><br> I'm new to github and recently started some small projects<br><br>🤜 Follow me!
 
 
 ## 🌐 Socials:
